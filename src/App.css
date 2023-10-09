@@ -1,0 +1,12 @@
+.parent {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    margin-left: 670px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: forestgreen;
+    cursor: pointer;
+}
